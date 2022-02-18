@@ -1,5 +1,1 @@
-const sayHi = (name) => {
-  console.log(`hello ${name}`);
-};
-
-sayHi("Mike");
+console.log("hello node");
