@@ -1,0 +1,5 @@
+npm run dev
+dev: "Nodemon app.js"
+//for calling the Nodemon where we set it
+
+// event loop
