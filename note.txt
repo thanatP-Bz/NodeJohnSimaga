@@ -3,3 +3,12 @@ dev: "Nodemon app.js"
 //for calling the Nodemon where we set it
 
 // event loop
+
+//event in Node.js
+on- listen for an event
+emit- emit an event
+
+emit has to match with the string of on
+event can be called as much as we want
+
+//steams
